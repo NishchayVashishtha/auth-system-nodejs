@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "week6",
+=======
+  "name": "week7",
+>>>>>>> 1c8d5bc (Final cleanup: node_modules ignored and repository structured)
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,6 +15,11 @@
   "license": "ISC",
   "dependencies": {
     "express": "^5.2.1",
+<<<<<<< HEAD
     "jsonwebtoken": "^9.0.3"
+=======
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.1.6"
+>>>>>>> 1c8d5bc (Final cleanup: node_modules ignored and repository structured)
   }
 }
